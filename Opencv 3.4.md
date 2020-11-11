@@ -85,3 +85,13 @@
 12. click the "Configuration" and "Generate". if the success done, you can open project
 
     : if the fail done, click [File]->[Delete Cache] and retry
+    
+#### Opencv build
+
+1. start "OpenCV.sln" on /path/to/OpenCV/build
+
+2. set startup project as the "INSTALL" project
+
+3. build debug and release
+
+4. if the success done, you can find library on /path/to/OpenCV/build/install (or your setting path of "CMAKE_INSTALL_PREFIX")
