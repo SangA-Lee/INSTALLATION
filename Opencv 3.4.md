@@ -70,6 +70,8 @@
 
 8. turn off the "WITH_1394", "WITH_VTX", "WITH_MATLAB", and "WITH_LAPACK"
 
+    : reference[https://ipcvhomme.tistory.com/11]
+
 9. (Options) turn on the "WITH_CUDA" and check your CUDA version
 
     : after CUDA 8.0, don't support "nvcuvid". you don't care
