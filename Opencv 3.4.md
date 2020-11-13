@@ -6,27 +6,27 @@
 
 * CMake
 
-    : download[https://cmake.org/download/]
+    : [download CMake](https://cmake.org/download/)
     
 * OpenCV-3.4
 
-    : download[https://opencv.org/releases/]
+    : [download OpenCV](https://opencv.org/releases/)
     
-    : modules[https://github.com/opencv/opencv_contrib/releases]
+    : [OpenCV-contib-modules](https://github.com/opencv/opencv_contrib/releases)
     
     : use same version Opencv and Opencv-contrib
 
 * Eigen
 
-    : download[http://eigen.tuxfamily.org/index.php?title=Main_Page]
+    : [download Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
     
 * (Options) CUDA
 
-    : driver[https://www.nvidia.co.kr/Download/index.aspx?lang=kr]
+    : [NVIDIA driver](https://www.nvidia.co.kr/Download/index.aspx?lang=kr)
     
-    : CUDA[https://developer.nvidia.com/cuda-toolkit-archive] (test on 8.0 and 10.0)
+    : [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-archive) -> test on 8.0 and 10.0
     
-    : cudnn[https://developer.nvidia.com/rdp/cudnn-archive] (need login)
+    : [cudnn](https://developer.nvidia.com/rdp/cudnn-archive) -> need login
     
     : set environment variable on your PC 
     
@@ -36,7 +36,7 @@
     
 * (Options} GStreamer
 
-    : download[https://gstreamer.freedesktop.org/download/]
+    : [download GStreamer](https://gstreamer.freedesktop.org/download/)
     
     : download runtime and development
     
@@ -52,7 +52,7 @@
     
 #### CMake Configure
 
-* Reference[https://m.blog.naver.com/PostView.nhn?blogId=msm2570&logNo=221333488789&proxyReferer=https:%2F%2Fwww.google.com%2F]
+* [Reference](https://m.blog.naver.com/PostView.nhn?blogId=msm2570&logNo=221333488789&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 1. search "TEST" and off all
 
@@ -70,7 +70,7 @@
 
 8. turn off the "WITH_1394", "WITH_VTX", "WITH_MATLAB", and "WITH_LAPACK"
 
-    : about configuration-WITH[https://ipcvhomme.tistory.com/11]
+    : [about configuration-WITH](https://ipcvhomme.tistory.com/11)
 
 9. (Options) turn on the "WITH_CUDA" and check your CUDA version
 
