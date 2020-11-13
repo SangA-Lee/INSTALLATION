@@ -66,7 +66,7 @@
 
 6. search "package" and off "BUILD_PACKAGE"
 
-7. search "example" and check if you want to get sample code
+7. (Options) search "example" and check if you want to get sample code
 
 8. turn off the "WITH_1394", "WITH_VTX", "WITH_MATLAB", and "WITH_LAPACK"
 
