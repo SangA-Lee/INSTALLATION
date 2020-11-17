@@ -2,6 +2,8 @@
 
 #### Requirements
 
+* Windows 10
+
 * Visual Studio 2013 (can not sovle the error of compiling on VS2017)
 
 * CMake
